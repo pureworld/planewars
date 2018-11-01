@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">planewars</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startgame">开始游戏</string>
+    <string name="endgame">退出游戏</string>
+
+</resources>
